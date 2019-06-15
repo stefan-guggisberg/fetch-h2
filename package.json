@@ -65,7 +65,7 @@
     "semantic-release": "15.x",
     "travis-deploy-once": "5.x",
     "ts-jest": "24.x",
-    "ts-node": "8.x",
+    "ts-node": "^8.3.0",
     "tslint": "5.x",
     "typescript": "3.x"
   },
