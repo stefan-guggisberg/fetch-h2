@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "@types/tough-cookie": "2.x",
-    "already": "1.x",
+    "already": "^1.9.0",
     "callguard": "1.x",
     "get-stream": "5.x",
     "through2": "3.x",
